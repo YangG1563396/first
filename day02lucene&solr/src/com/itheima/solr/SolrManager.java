@@ -55,5 +55,10 @@ public class SolrManager {
 		}
 		
 	}
+	
+	@Test
+	public void test() {
+		System.out.println("你少来");
+	}
 
 }
