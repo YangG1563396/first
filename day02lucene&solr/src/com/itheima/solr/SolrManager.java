@@ -60,6 +60,7 @@ public class SolrManager {
 	public void test() {
 		System.out.println("你少来");
 		System.out.println("张三的歌");
+		System.out.println("1234");
 	}
 
 }
