@@ -198,4 +198,9 @@ public class IndexManager {
 		}
 		indexReader.close();
 	}
+	
+	
+	public void tests() {
+		System.out.println("123");
+	}
 }
