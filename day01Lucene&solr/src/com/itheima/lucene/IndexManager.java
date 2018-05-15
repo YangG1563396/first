@@ -202,4 +202,8 @@ public class IndexManager {
 	public void tes() {
 		System.out.println("12345");
 	}
+	
+	public void tests() {
+		System.out.println("123");
+	}
 }
