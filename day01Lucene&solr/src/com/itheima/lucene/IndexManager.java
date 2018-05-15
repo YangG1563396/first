@@ -198,4 +198,8 @@ public class IndexManager {
 		}
 		indexReader.close();
 	}
+	
+	public void tes() {
+		System.out.println("12345");
+	}
 }
